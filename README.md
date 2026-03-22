@@ -1,4 +1,4 @@
 # project.demo
-this is my first repo
+this is my first repoistry
 <br>
 Author:Bhargav raju
